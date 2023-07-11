@@ -1,1 +1,1 @@
-# SQL-pt2
+# SQL-pt2 (usando a database sakila)
