@@ -1,5 +1,4 @@
-DML PARTE 3
-
+	COMANDOS DML NO SQL SERVER 2022 MANAGEMENT STUDIO
 
 		1-) Liste o título e a descrição do filme ordenados pelo título em ordem descendente:
 
@@ -64,7 +63,7 @@ LEFT JOIN film ON language.language_id = film.language_id;
 
 
 
-			-- SLIDES DML PARTE 2
+			- DML PARTE 2
                     
 	-- Liste os filmes que possuem taxa de locação (rental_rate) superior a R$ 3,00:
 SELECT * FROM film WHERE rental_rate > 3.00;
